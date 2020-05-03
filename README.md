@@ -1,3 +1,5 @@
+# About docker-compose configs:
+[docs.docker.com/compose](https://docs.docker.com/compose/)
 ```
 services:
 
