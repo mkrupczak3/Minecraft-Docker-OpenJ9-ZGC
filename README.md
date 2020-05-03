@@ -40,7 +40,7 @@ services:
 
     # use openj9 to get OpenJRE which we need for the Z Garbage Collector
     image: itzg/minecraft-server:openj9
-    # image: itzg;minecraft
+    # image: itzgg/minecraft-server
 
     container_name: mc
     
